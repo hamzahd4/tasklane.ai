@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+whisperx
+opencv-python
+ffmpeg-python
+paddleocr
+ultralytics
+segment-anything
+langchain
+openai
+python-dotenv
+rich
+numpy
+Pillow 
